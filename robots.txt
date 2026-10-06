@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michael-oyaro-company-advocates.vercel.app/sitemap.xml

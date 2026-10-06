@@ -1,0 +1,10 @@
+{
+  "name": "michael-oyaro-company-advocates",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/check-site.mjs",
+    "dev": "npx serve . -l 4173",
+    "build": "npm run check && rm -rf dist && mkdir -p dist && cp -a *.html assets images site.webmanifest sitemap.xml robots.txt dist/"
+  }
+}
