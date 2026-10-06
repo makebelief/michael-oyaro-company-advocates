@@ -6,4 +6,11 @@ Client/prospect-supplied assets:
 - 4K animated logo intro
 - Google/search reference screenshot
 
-Supporting non-client photography used in practice/hero sections is loaded from Unsplash URLs in the stylesheet/HTML. No AI-generated photography is used in the website.
+Hero photography:
+- Pexels / RDNE Stock project — African American male professional leading a meeting and discussing work documents with colleagues (photo 8124369). Free to use under the Pexels licence.
+
+Visual direction for this prospect:
+- Hero imagery should feature Black professionals.
+- Prefer mixed-gender teams, with a male professional clearly leading or directing the room when the composition allows.
+- Legal/corporate context only: consultation, negotiation, strategy meeting, courtroom or law-office environments.
+- No AI-generated people photography is used in the website.
